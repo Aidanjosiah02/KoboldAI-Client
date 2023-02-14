@@ -3,10 +3,6 @@ huggingface_hub>=0.10.1
 Flask
 Flask-SocketIO
 requests
-torch == 1.12.1+cu116
-torchvision == 0.13.1+cu116
-torchtext == 0.13.1
-torchaudio == 0.12.1+cu116
 flask-cloudflared==0.0.10
 flask-ngrok
 eventlet
